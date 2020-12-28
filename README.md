@@ -1,5 +1,5 @@
 
-### Hey, I'm [Hashir][website] 👋
+### Hey, I'm Hashir-[hashirpm][website] 👋
 
 <!--
 **hashirpm/hashirpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
