@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mhashirpm)](https://twitter.com/mhashirpm) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.hash1r.__/)](https://www.instagram.com/_.hash1r.__/)
 
-- 🔭 I’m currently working on **Improving Skills**
+- 🔭 I’m currently **Open to Work**
 - 🌱 I’m currently learning **App Development**
 - 📫 How to reach me: **mail2hashirpm@gmail.com**
 - ⚡ Fun fact: **Don't ask me to fix your computer**
