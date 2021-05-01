@@ -21,4 +21,4 @@
 
 **📈 My GitHub Stats**
 <p align="left"><img alt="hashirpm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hashirpm&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-  //<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirpm&layout=compact&theme=radical" alt="hashirpm" />
+  
