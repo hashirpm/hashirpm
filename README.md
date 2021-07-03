@@ -20,7 +20,7 @@
 
 
 **📈 My GitHub Stats**
-<p align="left"><img alt="hashirpm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hashirpm&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<!-- <p align="left"><img alt="hashirpm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hashirpm&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /> -->
   
 <img src="https://github.com/hashirpm/hashirpm/blob/master/images/codeStats.svg" alt="Alternative Text"/>
   
