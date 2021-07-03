@@ -22,5 +22,12 @@
 **📈 My GitHub Stats**
 <p align="left"><img alt="hashirpm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hashirpm&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
   
+<details> 
+ <summary>🤖 <b>My Weekly Coding Stats</b>: </summary>
+<br>
+
 <img src="https://github.com/hashirpm/hashirpm/blob/main/images/stat.svg" alt="Hashir WakaTime Activity"/>
+
+</details>
+
   
