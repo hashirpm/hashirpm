@@ -8,7 +8,7 @@ on:
         default: v1.0.0
         required: true
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '15 6 * * *'
 
 jobs:
   update-Readme:
