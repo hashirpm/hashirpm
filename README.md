@@ -26,7 +26,8 @@
  <summary>🤖 <b>My Weekly Coding Stats</b>: </summary>
 <br>
 
-<img src="https://github.com/hashirpm/hashirpm/blob/main/images/stat.svg" alt="Hashir WakaTime Activity"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </details>
 
