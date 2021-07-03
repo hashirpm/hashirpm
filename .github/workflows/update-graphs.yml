@@ -1,8 +1,6 @@
 name: Update README with my latest coding stats
 
-on:
-  schedule:
-    - cron: '30 5 * * *'
+on:[workflow_dispatch]
 
 jobs:
   update-Readme:
