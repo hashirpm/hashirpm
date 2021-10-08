@@ -28,7 +28,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX          1 hr 12 mins    ██████████████████░░░░░░░   71.74 % 
+CSS          13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+JavaScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Dart         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 <!--END_SECTION:waka-->
 
