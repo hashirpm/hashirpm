@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/hashir_pm_/)](https://www.instagram.com/hashir_pm_/) <img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=hashirpm.hashirpm"/>
 
 - 🔭 I’m currently **Open to Work**
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Blockchain**
 - 📫 How to reach me: **mail2hashirpm@gmail.com**
 - ⚡ Fun fact: **Don't ask me to fix your computer**
 
