@@ -22,16 +22,5 @@
 **📈 My GitHub Stats**
 <p align="left"><img alt="hashirpm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hashirpm&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
   
-<!-- <details> 
- <summary>🤖 <b>My Weekly Coding Stats</b>: </summary>
-<br> -->
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-<!-- 
-</details> -->
 
   
