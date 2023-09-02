@@ -18,9 +18,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" alt="solidity" width="40" height="40"/>
 
 
-
-**📈 My GitHub Stats**
-<p align="left"><img alt="hashirpm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hashirpm&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
   
 
   
